@@ -1,0 +1,48 @@
+/*global*/
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+
+.white-text {
+  color: #fff;
+}
+
+/*header styles*/
+.logo {
+  height: 95px;
+}
+
+#brand {
+  font-family: 'Satisfy', cursive;
+  color: #f27680; /*accent color*/
+  margin-top: 32px;
+  font-size: 42px;
+}
+
+#navbar {
+  margin-top: 26px;
+}
+
+/* jumbotron styles*/
+
+.jumbotron {
+  height: 420px;
+  background-image: url('../img/hero.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.jumbotron p {
+  font-size: 30px;
+}
+
+/*thumbnails*/
+
+.thumbnail {
+  background-color: #edf1f4;
+  padding: 15px;
+}
+
+/*services style*/
+
+.nave-stacked p {
+  margin-top: 16px;
+}
